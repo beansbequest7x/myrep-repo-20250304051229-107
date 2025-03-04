@@ -7,7 +7,7 @@ contract MyToken_0 {
     string public message;
 
     constructor() {
-        randomNumber = 75;
+        randomNumber = 43;
         message = "Hello from commit 0 - 2025-03-04 05:27:22";
     }
 
